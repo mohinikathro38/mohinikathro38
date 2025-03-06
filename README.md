@@ -45,7 +45,9 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohinikathro38&show_icons=true&theme=tokyonight" alt="Mohini's GitHub stats" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohinikathro38&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohinikathro38&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ---
 
 ### 🌟 Quote I Believe In:
